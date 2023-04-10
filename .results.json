@@ -5,9 +5,9 @@
     "passes": 13,
     "pending": 0,
     "failures": 0,
-    "start": "2023-04-10T16:55:05.676Z",
-    "end": "2023-04-10T16:55:06.041Z",
-    "duration": 365
+    "start": "2023-04-10T17:06:50.304Z",
+    "end": "2023-04-10T17:06:50.641Z",
+    "duration": 337
   },
   "tests": [
     {
@@ -76,7 +76,7 @@
     {
       "title": "gives customers a free sample",
       "fullTitle": "index.js calculatesFarePrice(start, destination) gives customers a free sample",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -171,7 +171,7 @@
     {
       "title": "gives customers a free sample",
       "fullTitle": "index.js calculatesFarePrice(start, destination) gives customers a free sample",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
